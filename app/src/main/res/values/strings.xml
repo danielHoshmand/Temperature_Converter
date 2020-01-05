@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Temperature_Converter</string>
+    <string name="Title_mainActivity">دما سنچ</string>
+</resources>
