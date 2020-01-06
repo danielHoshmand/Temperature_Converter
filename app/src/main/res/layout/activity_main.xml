@@ -40,7 +40,7 @@
         android:textSize="20dp"
         android:textStyle="bold"
         app:layout_constraintLeft_toLeftOf="parent"
-        app:layout_constraintRight_toLeftOf="c"
+        app:layout_constraintRight_toLeftOf="@id/ciliclusBTN"
         app:layout_constraintTop_toTopOf="@+id/ciliclusBTN" />
 
     <Button
